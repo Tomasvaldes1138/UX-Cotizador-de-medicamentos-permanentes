@@ -1,0 +1,6 @@
+-General home: Principal home for unlogged clients
+-Navigation Bar: Access to the main functionalities of the web site
+-Search: Options for the user to looking for medicines
+-Personalized home: Principal home for logged clients
+-Profile: Show some options related to the user account.
+-Shopping cart: Show the medicines a client wants to buy.

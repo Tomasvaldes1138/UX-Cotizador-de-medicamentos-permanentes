@@ -1,0 +1,6 @@
+The work team of our project is composed of the following members.
+
+-Tomas Valdes: Project leader
+-Daniel Marrillanca: Designer
+-Elian Bustamante: Analyst
+-Mara Villagrán: Designer
