@@ -148,7 +148,7 @@ Medication: Everything related to the product or medication information, such as
 
 Previously, we mentioned the main mockups to highlight which constitute the main solutions to the problems encountered, these mockups correspond mainly to our proposal. However, other mockups must also necessarily be part of this proposal, such as allowing the online purchase of a product or medicine, payment methods, order tracking, purchase history, shopping cart, allowing to register a new customer, allowing to edit the customer's personal information, allowing to add addresses, among other mockups which are justified in order to provide the best user experience based on the problems encountered.
 
-Modifications
+# Modifications
 
 For this second and last advance of our project, it is worth mentioning that modifications were made such as changing where our website proposal is oriented, where we must differentiate from traditional e-commerce, this emphasizing the quotation and implement more seriousness in what is related to medical prescriptions since these points are the most important in regard to the problem that we seek to solve. Modifications were made regarding the design of the mockups, such as spacing, font size and thickness, among other minor details.
 
