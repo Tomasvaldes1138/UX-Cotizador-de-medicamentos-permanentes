@@ -136,15 +136,15 @@ The main mockups to highlight:
 
 - <p align="justify"> <b>Personal information:</b> All about the personal information of the client, information like Rut, birthdate, names, last name, e-mail and phone number. </p>
 
-- **My prescriptions:** <p align="justify"> Everything related to the client's prescriptions, one of the most important points of our proposal, where you can see the saved prescriptions and their status. </p>
+- <p align="justify"> <b>My prescriptions:</b> Everything related to the client's prescriptions, one of the most important points of our proposal, where you can see the saved prescriptions and their status. </p>
 
-- **Add prescription:** <p align="justify"> In relation to the previous view, the customer can add a new prescription by filling out a form (all fields required) with important information of this prescription along with uploading the file of the same prescription. </p>
+- <p align="justify"> <b>Add prescription:</b> In relation to the previous view, the customer can add a new prescription by filling out a form (all fields required) with important information of this prescription along with uploading the file of the same prescription. </p>
 
-- **Prescription status:** <p align="justify"> Continuing with the prescriptions, this view allows you to see the status of the prescription added by the customer, where you can see if it was received, or is under review or finally approved. </p>
+- <p align="justify"> <b>Prescription status:</b> Continuing with the prescriptions, this view allows you to see the status of the prescription added by the customer, where you can see if it was received, or is under review or finally approved. </p>
 
-- **List products:** A list of specific products according to the search made by the client, along with the possibility of filtering these products, another important point based on the problem. </p>
+- <p align="justify"> <b>List products:</b> A list of specific products according to the search made by the client, along with the possibility of filtering these products, another important point based on the problem. </p>
 
-- **Medication:** <p align="justify"> Everything related to the product or medication information, such as viewing the basic information about it (price, name, code, brand), viewing the historical price, viewing a price comparator of the same product in different pharmacies, as well as products related to it. This view corresponds to another of the most important points of our proposal to highlight based on the problem. </p>
+- <p align="justify"> <b>Medication:</b> Everything related to the product or medication information, such as viewing the basic information about it (price, name, code, brand), viewing the historical price, viewing a price comparator of the same product in different pharmacies, as well as products related to it. This view corresponds to another of the most important points of our proposal to highlight based on the problem. </p>
 
 <p align="justify"> Previously, we mentioned the main mockups to highlight which constitute the main solutions to the problems encountered, these mockups correspond mainly to our proposal. However, other mockups must also necessarily be part of this proposal, such as allowing the online purchase of a product or medicine, payment methods, order tracking, purchase history, shopping cart, allowing to register a new customer, allowing to edit the customer's personal information, allowing to add addresses, among other mockups which are justified in order to provide the best user experience based on the problems encountered. </p>
 
