@@ -120,7 +120,7 @@ With the elements described above, now comes the concern of how the user experie
 	
 The first step is taken before delivering a well-structured, complete and detailed final design is to draw or establish the basic skeleton of our proposal, through wireframes, where (in low quality) the main functionalities that our website proposal must have been highlighted, to meet the expectations and scope previously stated.
 
-[The proposed wireframes are shown here:](https://github.com/Tomasvaldes1138/UX-Quoter-of-permanent-remedies/blob/9d2b14f114f34853227c4f06c9f7cfa7e3c5eecf/UX%20Proyect/6%20Low%20Fi/Low-fi.png)
+[The proposed wireframes are shown here](https://github.com/Tomasvaldes1138/UX-Quoter-of-permanent-remedies/blob/9d2b14f114f34853227c4f06c9f7cfa7e3c5eecf/UX%20Proyect/6%20Low%20Fi/Low-fi.png)
 
 [Link figma](https://www.figma.com/file/YNFCkF6hz0ti4Qe5fQv43C/Low-fi?node-id=0%3A1&t=I5qCqjTno5z4YTU8-1)
 
@@ -148,7 +148,7 @@ Medication: Everything related to the product or medication information, such as
 
 Previously, we mentioned the main mockups to highlight which constitute the main solutions to the problems encountered, these mockups correspond mainly to our proposal. However, other mockups must also necessarily be part of this proposal, such as allowing the online purchase of a product or medicine, payment methods, order tracking, purchase history, shopping cart, allowing to register a new customer, allowing to edit the customer's personal information, allowing to add addresses, among other mockups which are justified in order to provide the best user experience based on the problems encountered.
 
-[The proposed mockups are shown here:](https://github.com/Tomasvaldes1138/UX-Quoter-of-permanent-remedies/blob/9d2b14f114f34853227c4f06c9f7cfa7e3c5eecf/UX%20Proyect/7%20Mockups/Mockups.png)
+[The proposed mockups are shown here](https://github.com/Tomasvaldes1138/UX-Quoter-of-permanent-remedies/blob/9d2b14f114f34853227c4f06c9f7cfa7e3c5eecf/UX%20Proyect/7%20Mockups/Mockups.png)
 
 [Link figma](https://www.figma.com/file/WxaAOV6IAN0I8lSZDF6sSu/Mockups?node-id=135%3A1535&t=4ar9TeJK6AoW7WIW-1)
 
