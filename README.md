@@ -134,7 +134,7 @@ The main mockups to highlight:
 
 - **Client home:** Main home for registered clients.
 
-- <p align="justify"> **Personal information:** All about the personal information of the client, information like Rut, birthdate, names, last name, e-mail and phone number. </p>
+- <p align="justify"> <b>Personal information:</b> All about the personal information of the client, information like Rut, birthdate, names, last name, e-mail and phone number. </p>
 
 - **My prescriptions:** <p align="justify"> Everything related to the client's prescriptions, one of the most important points of our proposal, where you can see the saved prescriptions and their status. </p>
 
