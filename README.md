@@ -8,17 +8,17 @@ The following project was developed in the context of the "User Experience Desig
 
 The team is a group of 4 people who are going to work under one of three roles, being this project manager, analyst and designer:
 
-- Project leader: Tomás Valdés.
+- **Project leader:** Tomás Valdés.
 
-Team role in charge of the organization of the team, being responsible for planning, organizing and leading the different design stages of the project, so that each team member finishes his tasks correctly.
+    Team role in charge of the organization of the team, being responsible for planning, organizing and leading the different design stages of the project, so that each team member finishes his tasks correctly.
 
-- Analyst: Elian Bustamante.
+- **Analyst:** Elian Bustamante.
 
-Role of the team that is responsible for identifying the main characteristics of the project, making diagrams such as the value canvas or UX Personas to have devised how to carry out the solution to the problem. 
+    Role of the team that is responsible for identifying the main characteristics of the project, making diagrams such as the value canvas or UX Personas to have devised how to carry out the solution to the problem. 
 
-- Designers: Daniel Marillanca, Mara Villagrán.
+- **Designers:** Daniel Marillanca, Mara Villagrán.
 
-Role of the team in charge of the design and navigation of the website, being responsible for the development of the navigation diagram, wireframes and mockups that meet the needs of the project.
+    Role of the team in charge of the design and navigation of the website, being responsible for the development of the navigation diagram, wireframes and mockups that meet the needs of the project.
 
 ## Problem description
 
@@ -120,9 +120,9 @@ With the elements described above, now comes the concern of how the user experie
 	
 The first step is taken before delivering a well-structured, complete and detailed final design is to draw or establish the basic skeleton of our proposal, through wireframes, where (in low quality) the main functionalities that our website proposal must have been highlighted, to meet the expectations and scope previously stated.
 
-[The proposed wireframes are shown here](https://github.com/Tomasvaldes1138/UX-Quoter-of-permanent-remedies/blob/9d2b14f114f34853227c4f06c9f7cfa7e3c5eecf/UX%20Proyect/6%20Low%20Fi/Low-fi.png)
+- [The proposed wireframes are shown here](https://github.com/Tomasvaldes1138/UX-Quoter-of-permanent-remedies/blob/9d2b14f114f34853227c4f06c9f7cfa7e3c5eecf/UX%20Proyect/6%20Low%20Fi/Low-fi.png)
 
-[Link figma](https://www.figma.com/file/YNFCkF6hz0ti4Qe5fQv43C/Low-fi?node-id=0%3A1&t=I5qCqjTno5z4YTU8-1)
+- [Link figma](https://www.figma.com/file/YNFCkF6hz0ti4Qe5fQv43C/Low-fi?node-id=0%3A1&t=I5qCqjTno5z4YTU8-1)
 
 
 ## Surface / Mockups
@@ -130,30 +130,30 @@ Once defined or drawn the basic skeleton of our website proposal through the wir
 
 The main mockups to highlight:
 
-- **General home**: Main home for unregistered clients.
+- **General home:** Main home for unregistered clients.
 
-- Client home: Main home for registered clients.
+- **Client home:** Main home for registered clients.
 
-- Personal information: All about the personal information of the client, information like Rut, birthdate, names, last name, e-mail and phone number.
+- **Personal information:** All about the personal information of the client, information like Rut, birthdate, names, last name, e-mail and phone number.
 
-- My prescriptions: Everything related to the client's prescriptions, one of the most important points of our proposal, where you can see the saved prescriptions and their status.
+- **My prescriptions:** Everything related to the client's prescriptions, one of the most important points of our proposal, where you can see the saved prescriptions and their status.
 
-- Add prescription: In relation to the previous view, the customer can add a new prescription by filling out a form (all fields required) with important information of this prescription along with uploading the file of the same prescription.
+- **Add prescription:** In relation to the previous view, the customer can add a new prescription by filling out a form (all fields required) with important information of this prescription along with uploading the file of the same prescription.
 
-- Prescription status: Continuing with the prescriptions, this view allows you to see the status of the prescription added by the customer, where you can see if it was received, or is under review or finally approved.
+- **Prescription status:** Continuing with the prescriptions, this view allows you to see the status of the prescription added by the customer, where you can see if it was received, or is under review or finally approved.
 
-- List products: A list of specific products according to the search made by the client, along with the possibility of filtering these products, another important point based on the problem.
+- **List products:** A list of specific products according to the search made by the client, along with the possibility of filtering these products, another important point based on the problem.
 
-- Medication: Everything related to the product or medication information, such as viewing the basic information about it (price, name, code, brand), viewing the historical price, viewing a price comparator of the same product in different pharmacies, as well as products related to it. This view corresponds to another of the most important points of our proposal to highlight based on the problem.
+- **Medication:** Everything related to the product or medication information, such as viewing the basic information about it (price, name, code, brand), viewing the historical price, viewing a price comparator of the same product in different pharmacies, as well as products related to it. This view corresponds to another of the most important points of our proposal to highlight based on the problem.
 
 Previously, we mentioned the main mockups to highlight which constitute the main solutions to the problems encountered, these mockups correspond mainly to our proposal. However, other mockups must also necessarily be part of this proposal, such as allowing the online purchase of a product or medicine, payment methods, order tracking, purchase history, shopping cart, allowing to register a new customer, allowing to edit the customer's personal information, allowing to add addresses, among other mockups which are justified in order to provide the best user experience based on the problems encountered.
 
-[The proposed mockups are shown here](https://github.com/Tomasvaldes1138/UX-Quoter-of-permanent-remedies/blob/9d2b14f114f34853227c4f06c9f7cfa7e3c5eecf/UX%20Proyect/7%20Mockups/Mockups.png)
+- [The proposed mockups are shown here](https://github.com/Tomasvaldes1138/UX-Quoter-of-permanent-remedies/blob/9d2b14f114f34853227c4f06c9f7cfa7e3c5eecf/UX%20Proyect/7%20Mockups/Mockups.png)
 
-[Link figma](https://www.figma.com/file/WxaAOV6IAN0I8lSZDF6sSu/Mockups?node-id=135%3A1535&t=4ar9TeJK6AoW7WIW-1)
+- [Link figma](https://www.figma.com/file/WxaAOV6IAN0I8lSZDF6sSu/Mockups?node-id=135%3A1535&t=4ar9TeJK6AoW7WIW-1)
 
 
-### Modifications
+## Modifications
 
 For this second and last advance of our project, it is worth mentioning that modifications were made such as changing where our website proposal is oriented, where we must differentiate from traditional e-commerce, this emphasizing the quotation and implement more seriousness in what is related to medical prescriptions since these points are the most important in regard to the problem that we seek to solve. Modifications were made regarding the design of the mockups, such as spacing, font size and thickness, among other minor details.
 
