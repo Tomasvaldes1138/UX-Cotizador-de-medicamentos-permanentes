@@ -65,7 +65,7 @@ To satisfy the needs and requirements of the people in the previous section, we 
 
 For this, we compared the functionalities through the benchmark canvas.
 
-[Benchmarking: Full document here](UX Proyect/1 Benchmarking/A. Benchmarking.png)
+[Benchmarking: Full document here](UXProyect/1Benchmarking/A.Benchmarking.png)
 
 <img width="2512" alt="A  Benchmarking" src="https://user-images.githubusercontent.com/65306173/206946503-f947cf3f-d4cf-48c4-a479-5669e5337809.png">
 	
