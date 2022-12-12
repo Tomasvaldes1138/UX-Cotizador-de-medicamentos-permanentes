@@ -22,11 +22,11 @@ User experience design process for PermaMed
 
 ## Problem description
 
-<p align="justify"> When people want and need to buy their medicines for chronic diseases that require prescriptions, they must always do it through the face-to-face method, this is because pharmacies have to check that their prescriptions are not fake, and they do not offer them any option of delivery to the clients' homes.
+<p align="justify"> When people want and need to buy their medicines for chronic diseases that require prescriptions, they must always do it through the face-to-face method, this is because pharmacies have to check that their prescriptions are not fake, and they do not offer them any option of delivery to the clients' homes. </p>
 
-All of this means that people with a wide range of diseases who don’t allow them to go out and buy their medicines easily find themselves having to go out and buy their medicines at certain pharmacies without the assurance that they will have them available for immediate sale, or people who want to save the most money when buying their medicines must be quoted among many pharmacies. Which may also take them too much time to look for which pharmacies have the remedies they are looking for, and it may also be confusing to have a lot of windows open in the search engine.
+<p align="justify"> All of this means that people with a wide range of diseases who don’t allow them to go out and buy their medicines easily find themselves having to go out and buy their medicines at certain pharmacies without the assurance that they will have them available for immediate sale, or people who want to save the most money when buying their medicines must be quoted among many pharmacies. Which may also take them too much time to look for which pharmacies have the remedies they are looking for, and it may also be confusing to have a lot of windows open in the search engine. </p>
 
-These situations mean that people who need to buy their remedies permanently do not have a simple, quick, and easy way to make their quotes and purchases every month. </p>
+<p align="justify"> These situations mean that people who need to buy their remedies permanently do not have a simple, quick, and easy way to make their quotes and purchases every month. </p>
 
 ## Strategy
 	
@@ -40,11 +40,11 @@ These situations mean that people who need to buy their remedies permanently do 
 
 ## Proposal description
 
-<p align="justify"> So to satisfy the problem of these users, we designed the proposal of PermaMed, which is a website that will allow all people who have a chronic disease and must buy every month the remedies they need to treat their diseases or those who need a remedy prescribed only once, will be able to quote the remedies they want to buy in all those pharmacies that have the remedy available.
+<p align="justify"> So to satisfy the problem of these users, we designed the proposal of PermaMed, which is a website that will allow all people who have a chronic disease and must buy every month the remedies they need to treat their diseases or those who need a remedy prescribed only once, will be able to quote the remedies they want to buy in all those pharmacies that have the remedy available. </p>
  
-In addition to offering them a graph with the historical price, so they can buy, as it has varied the cost of this over time, also offers customers the possibility of a shopping cart in which they can add all the drugs they need to buy and thus provide them with an easy method of purchase that does not take them too much time doing the same process, for these customers will have to upload their prescriptions to the web to verify that the prescription is valid and to make the purchase process in an agile way.
+<p align="justify"> In addition to offering them a graph with the historical price, so they can buy, as it has varied the cost of this over time, also offers customers the possibility of a shopping cart in which they can add all the drugs they need to buy and thus provide them with an easy method of purchase that does not take them too much time doing the same process, for these customers will have to upload their prescriptions to the web to verify that the prescription is valid and to make the purchase process in an agile way. </p>
  
-Customers will also be able to update their profile information whenever they consider it necessary and will be able to add their different addresses. They will also have the option to review their order history, with the option to view the status of their order and the option to place an order they have already placed in the past. </p>
+<p align="justify"> Customers will also be able to update their profile information whenever they consider it necessary and will be able to add their different addresses. They will also have the option to review their order history, with the option to view the status of their order and the option to place an order they have already placed in the past. </p>
  
 ## Solution Scope
 	
@@ -84,7 +84,7 @@ For this, we compared the functionalities through the benchmark canvas.
 
 
 ## Navigation / Structure
-The navigation diagram allows us to identify early on (before design) how users will interact with the proposed website.
+<p align="justify"> The navigation diagram allows us to identify early on (before design) how users will interact with the proposed website. </p>
 
 <img width="2834" alt="A  Navigation diagram" src="https://user-images.githubusercontent.com/65306173/206946766-52b311b3-e2ce-4629-8a3b-0923f4c98d6a.png">
 
@@ -134,7 +134,7 @@ The main mockups to highlight:
 
 - **Client home:** Main home for registered clients.
 
-- **Personal information:** <p align="justify"> All about the personal information of the client, information like Rut, birthdate, names, last name, e-mail and phone number. </p>
+- <p align="justify"> **Personal information:** All about the personal information of the client, information like Rut, birthdate, names, last name, e-mail and phone number. </p>
 
 - **My prescriptions:** <p align="justify"> Everything related to the client's prescriptions, one of the most important points of our proposal, where you can see the saved prescriptions and their status. </p>
 
