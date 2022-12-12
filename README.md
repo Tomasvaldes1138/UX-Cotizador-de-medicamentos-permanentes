@@ -65,7 +65,7 @@ To satisfy the needs and requirements of the people in the previous section, we 
 
 For this, we compared the functionalities through the benchmark canvas.
 
-[[Benchmarking: Full document here](https://github.com/Tomasvaldes1138/UX-Quoter-of-permanent-remedies/blob/fd8be7a2245dd4ea1bcd230c87e0f055159a4641/UX%20Proyect/1%20Benchmarking/A.%20Benchmarking.png)
+[Benchmarking: Full document here](https://github.com/Tomasvaldes1138/UX-Quoter-of-permanent-remedies/blob/fd8be7a2245dd4ea1bcd230c87e0f055159a4641/UX%20Proyect/1%20Benchmarking/A.%20Benchmarking.png)
 
 <img width="2512" alt="A  Benchmarking" src="https://user-images.githubusercontent.com/65306173/206946503-f947cf3f-d4cf-48c4-a479-5669e5337809.png">
 	
