@@ -2,7 +2,7 @@
 
 User experience design process for PermaMed
 
-The following project was developed in the context of the "User Experience Design" class, the objective of which is to produce a series of documents that will allow us to identify a suitable design, which can provide comfort and satisfaction to the users when they use our proposal of solution for this project.
+<p align="justify"> The following project was developed in the context of the "User Experience Design" class, the objective of which is to produce a series of documents that will allow us to identify a suitable design, which can provide comfort and satisfaction to the users when they use our proposal of solution for this project. </p>
 
 ## Authors
 
@@ -38,7 +38,7 @@ The first step to being taken as a team to proceed with the subsequent          
 
 This process led us to understand our market segment and relate it to a value-added proposition. People with a wide range of illnesses are deprived of the possibility of buying their medicines easily and have to go in person to buy those medicines without having the certainty that the medicines they need will be available for immediate sale. These situations mean that people who need to buy their medicines on a permanent basis do not have a simple, fast and easy way to make their quotations and purchases every month.
 
-## Proposal description:
+## Proposal description
 
 So to satisfy the problem of these users, we designed the proposal of PermaMed, which is a website that will allow all people who have a chronic disease and must buy every month the remedies they need to treat their diseases or those who need a remedy prescribed only once, will be able to quote the remedies they want to buy in all those pharmacies that have the remedy available.
  
